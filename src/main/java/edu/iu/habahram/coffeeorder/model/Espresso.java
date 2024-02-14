@@ -5,7 +5,7 @@ import edu.iu.habahram.coffeeorder.model.Beverage;
 public class Espresso extends Beverage {
     @Override
     public float cost() {
-        return 1.34F;
+        return 2.00F;
     }
 
     @Override
